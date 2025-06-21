@@ -14,5 +14,5 @@ A simple web-based password generator that lets you:
 3. Click **Generate Password**
 4. Use the 📋 button to copy the password
 
-## 📁 Project Structure
+
 
